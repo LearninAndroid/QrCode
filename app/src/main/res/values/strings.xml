@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">QrCodeGenerator</string>
+    <string name="result_text_default">Please Focus Camera to QR</string>
 </resources>
